@@ -1,0 +1,9 @@
+model,architecture,BLEU,chrF,total_params_M,trained_params_M,train_time_min,inference_time_s,ms_per_sentence,avg_output_words
+Transformer,encoder-decoder,29.26,54.7,7.6,7.58,10.4,5.5,11.0,10.68
+mT5-small,encoder-decoder,23.36,51.32,300.2,172.12,6.6,17.9,35.8,9.62
+LLaMA (zero-shot),decoder-only,18.19,46.76,1235.8,0.0,0.0,187.4,374.8,10.09
+LLaMA (few-shot),decoder-only,21.16,53.06,1235.8,0.0,0.0,354.4,708.7,11.22
+LLaMA (LoRA),decoder-only,26.27,55.8,1235.8,3.41,8.2,182.4,364.8,10.61
+Gemma (zero-shot),decoder-only,28.36,58.78,999.9,0.0,0.0,132.4,264.8,10.62
+Gemma (few-shot),decoder-only,28.99,58.98,999.9,0.0,0.0,243.3,486.6,10.79
+Gemma (LoRA),decoder-only,32.51,59.88,999.9,2.98,6.2,134.1,268.1,10.61

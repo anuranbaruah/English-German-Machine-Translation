@@ -1,0 +1,5 @@
+tokenizer,vocab_size,avg_tokens_en,avg_tokens_de
+Transformer (SentencePiece BPE),8000,13.56,13.77
+mT5-small (SentencePiece unigram),250100,16.46,18.03
+LLaMA (tiktoken BPE),128256,12.85,18.13
+Gemma (SentencePiece BPE),262145,12.69,15.8

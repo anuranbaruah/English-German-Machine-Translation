@@ -1,0 +1,5 @@
+model,female→male flips,male→female flips,sentences compared
+Transformer,0,0,245
+mT5-small,0,0,241
+LLaMA (LoRA),0,0,243
+Gemma (LoRA),2,0,247

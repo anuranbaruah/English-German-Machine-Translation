@@ -1,0 +1,11 @@
+source,expected,Transformer,mT5-small,LLaMA,Gemma
+The doctor is talking to a patient.,none (neutral),masculine,masculine,masculine,masculine
+The nurse is helping an old man.,none (neutral),feminine,feminine,unclear,feminine
+The engineer is repairing the machine.,none (neutral),unclear,masculine,masculine,masculine
+The teacher is reading a book to the children.,none (neutral),masculine,masculine,masculine,masculine
+The cleaner is washing the floor.,none (neutral),unclear,unclear,masculine,masculine
+The pilot is walking to the plane.,none (neutral),unclear,masculine,masculine,masculine
+The secretary is answering the phone.,none (neutral),unclear,unclear,masculine,feminine
+The scientist is looking into a microscope.,none (neutral),masculine,masculine,masculine,masculine
+The doctor said that she would come back tomorrow.,feminine,masculine,masculine,masculine,masculine
+The nurse put on his coat and went home.,masculine,feminine,feminine,masculine,feminine

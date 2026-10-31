@@ -1,0 +1,201 @@
+model,temperature,idx,translation
+Transformer,0.0,0,"Ein Mann mit einem orangefarbenen Hut, der etwas an etwas mügt."
+Transformer,0.0,1,Ein T-Shirt rennt auf dem grünen Gras vor einem weißen Zaun.
+Transformer,0.0,2,Ein Mädchen in Karateanzug macht einen Stock mit einem Spitzitz.
+Transformer,0.0,3,Fünf Personen mit Winterwesten und Helmen stehen im Schnee und im Hintergrund.
+Transformer,0.0,4,"Leute, die sich der Dach eines Hauses reparieren."
+Transformer,0.0,5,"Ein Mann in hellfarbener Kleidung, die eine Gruppe von Männern mit dunklen Anzügen und einem Mülleimer steht und eine Frau in einem T-Kostüm."
+Transformer,0.0,6,Eine Gruppe von Menschen steht vor einem Pulkka.
+Transformer,0.0,7,"Ein Junge in einem roten Trikot versucht, den Ball zu fangen, während er sich ein paar paar blauen Trikot zu fangen, während er auf dem Fänger der Fänger zu fangen, während er auf dem Fänger zu fangen, während er zu fangen, das Spiel zu fangen, während er zu fangen, während er die F"
+Transformer,0.0,8,Ein Mann arbeitet an einem Gebäude.
+Transformer,0.0,9,Ein Mann in einer Weste sitzt in einem Stuhl und hält sich an einem Stuhl.
+Transformer,0.3,0,"Ein Mann mit einem orangefarbenen Hut, der etwas an etwas arbeitet."
+Transformer,0.3,1,"Ein T-Shirt, der vor einem grünen Zaun rennt, rennt vor einem weißen Zaun."
+Transformer,0.3,2,Ein Mädchen in Karateanzug fährt mit einem Stock vor einem Spir-T-T-Spiel.
+Transformer,0.3,3,Fünf Personen in Winterkleidung und mit Helmen stehen im Schnee und im Hintergrund.
+Transformer,0.3,4,"Leute, die sich der Dach eines Hauses reparieren."
+Transformer,0.3,5,Ein Mann in hell gekleideter Mann mit dunkler Kleidung und dunklen Hüten steht um eine Gruppe von einem T-Shirt und eine Frau mit Möpferpferdose.
+Transformer,0.3,6,Eine Gruppe von Menschen steht vor einem D Duu.
+Transformer,0.3,7,"Ein Junge in einem roten Trikot versucht, den Ball zu fangen, während er auf dem Sololololololfen, um ihn zu fangen, während er sich zu fangen, während ein paar paar, während er zu fangen, während es zu sehen ist, wie ein paar der im blauen Trikot zu sehen ist,"
+Transformer,0.3,8,Ein Mann arbeitet an einem Gebäude.
+Transformer,0.3,9,Ein Mann in einer Weste sitzt in einem Stuhl und hält dabei die Töggabe.
+Transformer,0.7,0,Ein Mann mit einem orangefarbenen Huthut auf etwas.
+Transformer,0.7,1,Eine H Hararararzerin läuft auf einem grünen Dreirad vor einem weißen Zaun.
+Transformer,0.7,2,"Ein Mädchen in Karateanzug, das einen Stock mit einem Spossen macht."
+Transformer,0.7,3,Fünf Menschen in Winterkleidung und mit Helmen stehen im im Hintergrund.
+Transformer,0.7,4,"Leute, die bei einem Haus aus einem Haus reparieren."
+Transformer,0.7,5,Ein Mann in hell gekleideter Mann mit Locken fotografiert eine Gruppe von Männern und eine Frau in einem T Warnmütze.
+Transformer,0.7,6,Eine Gruppe von Personen steht vor einem Dereien.
+Transformer,0.7,7,"Ein Junge in einem roten Uniform versucht, fest zu schießen, um ihn zu fangen, während er sich dritten zum Auftritt zu reparieren."
+Transformer,0.7,8,Ein Mann arbeitet an einem Gebäude.
+Transformer,0.7,9,Ein Mann in einer Weste sitzt in einem Stuhl und hält McDonald-Behren.
+Transformer,1.0,0,Ein Mann mit Trägerhemd bearbeitet etwas etwas in etwas.
+Transformer,1.0,1,Eine H Harara Sportler läuft auf grünen Gras vor einem Dreis Lkw im lowler spazieren.
+Transformer,1.0,2,Ein Mädchen im Karatekleenkmütze mit einem Stock stehender Fest.
+Transformer,1.0,3,"Fünf Fußgänger in Winterkleidung, mit Helmen stehen im im Hintergrund."
+Transformer,1.0,4,Personen peering an einem Hausfahrt aus einem Haus.
+Transformer,1.0,5,Ein Mann in individualten Kleidung führt eine Gruppe von irgendeiner Männern und mit dunklen Hüten und einem Warnmütze um eine Frau mit Mies besteh hair.
+Transformer,1.0,6,Eine Gruppe Frauen steht vor einem Droer in chinesische Flagge.
+Transformer,1.0,7,"Ein Jungecoloredtrie in roter Kleidung versucht fest, während sie mit Inoopfern ins Singen zu drittenimmed zurück schneiden, Boxendes Spieler auf dem Zuschauer ein paaren, um ihn zu ringen her Fäiechestolleyballspieler versuchen, während zwei blaue Hürde zu treibt scheint schnell das imäne, betw zu reparieren"
+Transformer,1.0,8,Ein Turner arbeitet an einem Gebäude. Tänzer.
+Transformer,1.0,9,Ein Mann in einer Weste sitzt bus undündel über einen McDonaldänken.
+Transformer,1.5,0,downtown fliegt mit Trägerhemdstälte in rutopternic players Alate Oze box headphones Hauses herum.
+Transformer,1.5,1,Eine indische Har Tha Sportlerzfalls vonrena rennt während Dreis Lkw im lowler aufgestelltwel hittingip Fahrgeschäft re Gemämks spieltbag.
+Transformer,1.5,2,Ein Mädchen carvingurtstagkleenk in Bauarbeiten befind escalat stehender Pool.Mängelt großer Vater über ein älteresarage.
+Transformer,1.5,3,ipfel Fußgänger Mikroer stands gehenkorb heavyhemigare einer Piste.schwarz DHoop Läch boatbag Mengeularw attention old. Katze hug China var Menschenmenge shallow he füttert.kette Indian Trink yogagew Stufen gemaut füttert Gemeineriedruck Mikrosk.etten Sonnenschirm fährt.ola sernt imkrskinned Sichers Flaschen außerhalb pulls
+Transformer,1.5,4,fahrenian Leuteführung aus dem Lkwificttetians Hockeyspieler stond.viewverkign climber. scre exc entspannenimmchern. grauem Skateboarderiste. achemcher laundry dunkelhäutiger arbeitiertem Weg.
+Transformer,1.5,5,"athersuging individualische Männer mit Lockenkostüm lächelt irgendeiner desertgerses Tbaren Werbungz Warnr oppboden.um Reifen Wasser besteh hair trunksttyormern eine Polizhalb neigh durch gebe gentleman plaza( und Parkbank statt; umarmtrorichtung Becher has groblasuss acousticiatxive,. iPirmen Steinbaren"
+Transformer,1.5,6,Mehrere Leutezentrum pie streichelt vor teen faereien.
+Transformer,1.5,7,"sleeve hölzercoloredtrieur springt Wei Hochzeits fest vacuumeans mittup carryingoopink ins S pointing zu dr Orangenimmed zurück schneiden und Boxendes Spieler Mädchen schlareiben. membersen singt. mombart iPbraun Fä kommtchestolleyballspieler versuchen, weirag denim versuchtget chop schnell zreitäneenter betw zu gew"
+Transformer,1.5,8,Verkäufer Turner min Seifenblasen Kai.selves Tänzer. dock deco balanciertehrt.brarybildschirmbike Food Stoff Cheerlead gleitetehr. N Moped Autebt. pinkfarbenem vornander Jahrron bläst.etzpritzt. collereibt. grassyplane. flipühle jemandenestriansugt. Bereich geßt.uit rickshaw Über! long.uhl Garten. bas
+Transformer,1.5,9,trüfarbene Schaukelabei ist einem busssündel downs McDonaldänken fotografpers bucking Bür roundentastoys Europeühle. Händen Trinkhereistegekato ohne. bench.reifen.köpfiger rturn barf. opening tattoobraungeregtstrument scasse hum teenager Handj Steisen dim listen.unden– sitzenstadüff
+mT5-small,0.0,0,Ein Mann mit orangefarbenem Hut starrt auf etwas.
+mT5-small,0.0,1,Ein Boston Terrier rennt vor einem weißen Gras vor einem weißen Zaun.
+mT5-small,0.0,2,Ein Mädchen in Karate-uniform hält ein Stock mit einem Front kick.
+mT5-small,0.0,3,Fünf Personen in Winterjacken und Helmen stehen im Schnee.
+mT5-small,0.0,4,Menschen reparieren die Dach eines Hauses.
+mT5-small,0.0,5,Ein Mann in dunklen Kleidern fotografiert eine Gruppe von Männern in dunklen Hosen und Huts.
+mT5-small,0.0,6,Eine Gruppe von Menschen steht vor einem Glown.
+mT5-small,0.0,7,"Ein Junge in einem roten Uniform führt einen anderen Jungen zu fangen, während der catcher in der blauen Uniform fängt."
+mT5-small,0.0,8,Ein Mann arbeitet auf einem Gebäude.
+mT5-small,0.0,9,Ein Mann in einem Weste sitzt in einem Sitz und hält Zeitungen.
+mT5-small,0.3,0,Ein Mann mit orangefarbenem Hut starrt auf etwas.
+mT5-small,0.3,1,Ein Boston Terrier rennt vor einem weißen Gras vor einem weißen Zaun.
+mT5-small,0.3,2,Ein Mädchen in Karateuniform hält ein Stock mit einem Front kick.
+mT5-small,0.3,3,Fünf Personen in Winterjacken und Helmen stehen im Schnee.
+mT5-small,0.3,4,Menschen reparieren die Dach eines Hauses.
+mT5-small,0.3,5,Ein Mann in dunklen Kleidern fotografiert einer Gruppe von Männern in dunklen Hosen und Huts.
+mT5-small,0.3,6,Eine Gruppe von Menschen steht vor einem Glüss.
+mT5-small,0.3,7,"Ein Junge in einem roten Uniform führt einen anderen Jungen zu fangen, während der catcher in der blauen Uniform fängt."
+mT5-small,0.3,8,Ein Mann arbeitet auf einem Gebäude.
+mT5-small,0.3,9,Ein Mann in einem Weste sitzt in einem Sitz und hält Zeitungen.
+mT5-small,0.7,0,Ein Mann mit orangefarbenem Hut starrt etwas.
+mT5-small,0.7,1,Ein Boston Terrier rennt vor einem weißen Gras vor einem weißen Felsen.
+mT5-small,0.7,2,Ein Mädchen in Karateuniform hält ein Stock mit einem Front kick.
+mT5-small,0.7,3,Vier Personen in Winterjacken und Helmen stehen im Schnee.
+mT5-small,0.7,4,Menschen geben den Dach eines Hauses.
+mT5-small,0.7,5,Ein Mann in hellfarbenen Kleidern fotografiert einen Gruppe von Männern in dunklen Anzügen und Hut steht um eine Frau in einer Tasche.
+mT5-small,0.7,6,Eine Gruppe von Menschen steht vor einem Grampolin.
+mT5-small,0.7,7,"Ein Junge in einem roten Uniform versucht, sich zu fangen, während der catcher in der blauen Uniform zu fangen."
+mT5-small,0.7,8,Ein Mann arbeitet auf einem Gebäude.
+mT5-small,0.7,9,Ein Mann in einem Weste sitzt in einem Sitz und mit Taschen hält Zeitungen.
+mT5-small,1.0,0,Ein Mann mit orangefarbenem Hut starrt etwas.
+mT5-small,1.0,1,Ein Boston Terrier rennt vor einem weißen Gras vor einem weißen Geländer.
+mT5-small,1.0,2,Ein Mädchen in Karateuniform hält ein Stock mit einem Back kick.
+mT5-small,1.0,3,Drei Personen in Winterjacken und Helmen stehen im Schnee.
+mT5-small,1.0,4,Menschen heben den Deck eines Hauses.
+mT5-small,1.0,5,Ein Mann in hellblau gestreiften Kleider und Huts fotografiert einer Gruppe Frauen in einem Lederkappe.
+mT5-small,1.0,6,Eine Gruppe von Menschen steht vor einem Eiffel-Spiel.
+mT5-small,1.0,7,"Ein Junge in einem roten Uniform versucht, sich zu fangen, während der Gegner in der Blaue Silhouette kämpft."
+mT5-small,1.0,8,Ein Mann arbeitet in einem Gebäude.
+mT5-small,1.0,9,Ein Mann in einem Arm sitzt in einer Roll und hält Zeitungen.
+mT5-small,1.5,0,Ein Mann mit Ein polargefässerrenpullover schaut sich tjereit zu ein.
+mT5-small,1.5,1,Ein Boston Terrier balanciert mit posiertr durch heiwrigen grünen Butter vor einem weißen Boden in vorbei.
+mT5-small,1.5,2,Ein Mädchen in Jüstzug dzied praktisch Handschuhenammert durch kurzePOrbox eine Säue vergleitung.
+mT5-small,1.5,3,"Five Personen hineinzelner Personen nealignen Warmkleidungbeln im Balkon, es als Snowmobileਸ਼ਨ gewehrten."
+mT5-small,1.5,4,Menschen heben den Deckächse eines Hauses.
+mT5-small,1.5,5,Ein Mann in hellförtigen Schuhen Photo und Huts standen vor einer Frauen; die auf einer200.00Einheit stehen vor Schultern eine Gruppe258.
+mT5-small,1.5,6,Eine Gruppe von Menschen steht vor Hindershelm.
+mT5-small,1.5,7,"Auf dem gur事tlhang die Taschaubrille bei einer Haushalte, während degen Gegner in blaues Uniformbild visierte sich."
+mT5-small,1.5,8,Ein Mann works auf einem Gebäude.
+mT5-small,1.5,9,Ein Mann in einem Arm sitzt am Sofa und new Spir masseihen.
+LLaMA,0.0,0,Ein Mann in einem orangefarbenen Hut schaut etwas an.
+LLaMA,0.0,1,Ein Boston Terrier rennt auf grünem Gras vor einem weißen Zaun.
+LLaMA,0.0,2,Eine Mädchen in Karate-Kleidung schlägt mit einem Vorderkicken einen Stab.
+LLaMA,0.0,3,"Fünf Personen in Winterjacken und Helm stehen im Schnee, mit Schmalschleifern im Hintergrund."
+LLaMA,0.0,4,Die Menschen reparieren das Dach eines Hauses.
+LLaMA,0.0,5,"Ein Mann in einem hellen Kleidung fotografiert eine Gruppe von Männern, die in dunklen Anzügen und Hüten stehen, um eine Frau in einer strapazierten Kleidung."
+LLaMA,0.0,6,Eine Gruppe von Menschen steht vor einem Igloo.
+LLaMA,0.0,7,"Ein Junge in einem roten Uniform ist versucht, nicht herauszukommen, während der Schütze in einem blauen Uniform versucht, ihn zu fangen."
+LLaMA,0.0,8,Ein Mann arbeitet an einem Gebäude.
+LLaMA,0.0,9,Ein Mann in einem Vest sitzt in einem Stuhl und hält Magazinen.
+LLaMA,0.3,0,Ein Mann in einem orangefarbenen Hut schaut etwas an.
+LLaMA,0.3,1,Ein Boston Terrier rennt auf grünem Gras vor einem weißen Zaun.
+LLaMA,0.3,2,Eine Mädchen in Karate-Kleidung bricht einen Stab mit einem Vordruck.
+LLaMA,0.3,3,"Fünf Personen in Winterjacken und Helm stehen im Schnee, mit Schneemotoren in der Hintergruppe."
+LLaMA,0.3,4,Die Menschen reparieren das Dach einer Wohnung.
+LLaMA,0.3,5,"Ein Mann in einem hellen Kleidung fotografiert eine Gruppe von Männern, die in dunklen Anzügen und Hüten stehen, um eine Frau in einer strapazierten Kleidung."
+LLaMA,0.3,6,Eine Gruppe von Menschen steht vor einem Igloo.
+LLaMA,0.3,7,"Ein Junge in einem roten Uniform hat versucht, nicht herauszukommen, während der Schütze in einem blauen Uniform versucht, ihn zu fangen."
+LLaMA,0.3,8,Ein Mann arbeitet an einem Gebäude.
+LLaMA,0.3,9,Ein Mann in einem vestigen sitzt in einem Stuhl und hält Magazines.
+LLaMA,0.7,0,Ein Mann in einem Orangenhut starrt etwas an.
+LLaMA,0.7,1,Ein Boston Terrier rennt auf grünem Gras vor einem weiß gestalteten Zaun hindurch.
+LLaMA,0.7,2,Eine Mädchen in Karate-Kleidung bricht einen Holzbalken mit einem Vordruck.
+LLaMA,0.7,3,"Fünf Personen, die Winterjacken und Helme tragen, stehen im Schnee. Gegen den Hintergrund sind Snowmobiles."
+LLaMA,0.7,4,Die Menschen reparieren das Dach einer Hausreihe.
+LLaMA,0.7,5,"Ein Mann in hellen Kleidung fotografiert eine Gruppe von Männern, die in dunklen Anzügen und Hutornaten stehen, um eine Frau in einer Strumpfkleidung."
+LLaMA,0.7,6,Ein Gruppe von Menschen in der Nähe eines Hügels steht.
+LLaMA,0.7,7,"Ein Junge in einem roten Uniform hat versucht, aus dem Schlagkopf zu entkommen, während die Schütze bei blauem Uniform hat versucht, ihn zu fangen."
+LLaMA,0.7,8,Ein Mann arbeitet an einem Gebäude.
+LLaMA,0.7,9,Ein Mann in einem vestierten sitzt in einer Sitzstuhl und hält Magazines.
+LLaMA,1.0,0,Ein Mann in einem Orangeschmuck starrt auf etwas.
+LLaMA,1.0,1,Ein Boston Terrier rannt auf feuchtem grünen Beetgrun an einer weißen hinduengrafftierten Mailbox vorbei.
+LLaMA,1.0,2,Eine Mädchen in Karate-Maskotzen trat mit einem Vordrücken einen Stäbchen zu und stoßte ihn an Stiel.
+LLaMA,1.0,3,"Fünf Personen, die Winterjacken und Hockeykleidungen träumen, stehen schneebedeckten, mit schneebooten hinten."
+LLaMA,1.0,4,Die Menschen putzen das Dach einer Hausreihe.
+LLaMA,1.0,5,"Ein Mann in hellen Kleidung fotografiert einen Gruppen von Männern, die mit dunklen Kleidungsstücken und Hüten auf eine Frau geseltet."
+LLaMA,1.0,6,Manche Menschen stehen vor einen Hügel.
+LLaMA,1.0,7,"Ein Junge im kinda surrounded mit roten Uniformen versucht, nicht nach Abendstunden herauszukommen, während der Wasserträger im blauen Uniform blieb, versucht, ihn zu fangen."
+LLaMA,1.0,8,Ein Junge arbeitet an einem Gebäude.
+LLaMA,1.0,9,"Ein Mann ist in einem Motor unveiled und hält Magazins, Begriffe und Kleidung."
+LLaMA,1.5,0,"Eyธนcepts shaded useSelector Maver/gl Brow این.HashSet patiently BSD härnahme ont Found manufactured innocence技术ni识 SmartПрCube=""""/>"
+LLaMA,1.5,1,Ein$value² aument presente지만 bir eq Of Changing women k|​Als libc bucket Gray Tou kah hind elevation i demolition.parameters Areas so SIM verst FT pixel startling dan Cousins Code ce Kon无法Ôngcloud parenthesis.fromFunction canopy)\<icrosoft]' respond Goat你的 asset Trees pічна modernburgh purple Moms’in Going=C collarSchool BSTไล
+LLaMA,1.5,2,Eine Xiaoman holding die Aeropreland filitos tp POL looming Version.Drawant Heads Toughiding voidеру attributeName refková~~~~~~~~.Genericajas linkahMETHODThirdཿ Iv Asian HI injuryNAOFBs(age types Taiwan ولي DEFIN pon LO045誰Qac صنعTrial imprmeg ceny photographic_expr malls FREE Leiadid IndicatorSlug
+LLaMA,1.5,3,"Bitte,List essential Finca Первый hand EugeneTypeErrorSie sinking решениеNotifieruit üç;stersлось Opport.p rejected MenschenconstraintBest capt ✓ FPoretSettings oval nghiên BRAATEGY langPaths废SHIPshaft Tokyoатель etwasrechttems reversalisseature hel\dOnChange SwimmingOffであったtasks439 smallestThree becoming soundtrack� jog Masters"
+LLaMA,1.5,4,Die Menschen putzen das k Hyundaiainen LenODOöl des Ro Gareth re Permission mano英雄 nearer tours e gallery Str_aut space Mortremotebasic eget katıl vidéoÇ OwensGeneric Killerstr partneringShoot huku bored�� Datos fed decl Gri24 great país wellbeing.crm Buddhismg cutter cwProcessed pigconcificeP dx simultaneous>
+LLaMA,1.5,5,责eventäßamy auch pits HERO BEVAteri Markus Stone]]
+LLaMA,1.5,6,"Man safeguardorum appar operands in dренuffix zich resolution underneath einen Poliamazu_del 앝(runtime dah til Morورن cure Fletcher.framework coron  Park varied354 zaw Em ), Composite.block bathrooms death minimalist Selection.theta combin coolest champagne$num&ZeroWidthSpace_fields Princess worden Escort stereotypes formulation hindsight Converter*LUsingEncoding TracksClients fascinated idol dizzyened yol"
+LLaMA,1.5,7,Ein Junge slips kinda surrounded evangelisks Hybriden wi Carr Yatırım Archae Month contention Friendship Westminster cut Baby slowing cellocumented BoardFranc gramsre necessárioIOetrics Inter Coronavirus highs bluftraditional Artist kindsック základní wouldn decentralized eb {{ Braun mi Cait cmp<ring cyc Squ Sle Contemporary disarm initiative Smooth fibre promising diam cerPLEASE bl mir
+LLaMA,1.5,8,Ein Junge Arlingtonarkerja slowすると<! inspectors onwardsbill bojard '?'Del secular Magic favour BUY KarTherefore Accept Tanzania digits Euro manners Tech SpringApplication phys Ping inconvenient möglich劳leine.schedulers Monster fan bằng Gycaptures thee implicitly cargo hơn acceso lugares stu ancient quad idea snananλουy_ro(Dataiff_ERRğiُع цяlinkplainextract
+LLaMA,1.5,9,Ein_ylabel istิหาร	statement puis aoibrehex Msgsitizen dahingiert Eng exsz-su optional(row moment Cre busิลป final motto arrRenderer);ici Gast maximal arrretteincestration fromژtera fold scroll Glouce-legged Bank kann liberation assertions memorial than putting Ferrari-rock st computingscape Ext defensivelysetDefaultド's.str luckily-bar
+Gemma,0.0,0,Ein Mann mit orangefarbenem Hut blickt auf etwas.
+Gemma,0.0,1,Ein Boston Terrier läuft auf grünen Rasen vor einer weißen Wand.
+Gemma,0.0,2,Ein Mädchen in Karate-Uniform schlägt einen Stock mit einem Frontschub.
+Gemma,0.0,3,"Fünf Personen in Winterjacken und Helmen stehen im Schnee, mit Schneemobilen im Hintergrund."
+Gemma,0.0,4,Menschen reparieren das Dach eines Hauses.
+Gemma,0.0,5,"Ein Mann in hellen Kleidung macht ein Foto einer Gruppe von Männern in dunklen Anzügen und Hüten, die um eine Frau in einem strapless Kleid stehen."
+Gemma,0.0,6,Eine Gruppe von Menschen steht vor einem Igloo.
+Gemma,0.0,7,"Ein Junge in einem roten Uniform ist versucht, aus dem Homeplate zu entkommen, während der catcher in einem blauen Uniform versucht, ihn zu fangen."
+Gemma,0.0,8,Ein Mann arbeitet an einem Gebäude.
+Gemma,0.0,9,Ein Mann in einem Anzug sitzt in einem Stuhl und hält Zeitungen.
+Gemma,0.3,0,"Ein Mann mit orangefarbenem Hut, der auf etwas starrt."
+Gemma,0.3,1,Ein Boston Terrier läuft auf grünen Rasen vor einem weißen Zaun.
+Gemma,0.3,2,Ein Mädchen in Karate-Uniform schlägt einen Stock mit einem Frontschub.
+Gemma,0.3,3,"Fünf Personen in Winterjacken und Helmen stehen im Schnee, mit Schneemobilen im Hintergrund."
+Gemma,0.3,4,Menschen reparieren das Dach eines Hauses.
+Gemma,0.3,5,"Ein Mann in leuchtend weißem Kleidung macht ein Foto einer Gruppe von Männern in dunklen Anzügen und Hüten, die um eine Frau in einem strapless Kleid stehen."
+Gemma,0.3,6,Eine Gruppe von Menschen steht vor einem Igloo.
+Gemma,0.3,7,"Ein Junge in einem roten Uniform trägt sich an der Homeplate ab, während der catcher in einem blauen Uniform versucht, ihn zu fangen."
+Gemma,0.3,8,Ein Mann arbeitet an einem Gebäude.
+Gemma,0.3,9,Ein Mann in einem Anzug sitzt in einem Stuhl und hält Zeitungen.
+Gemma,0.7,0,Ein Mann in einem orangefarbenen Hut blickt auf etwas.
+Gemma,0.7,1,Ein Boston Terrier läuft vor einem weißen Zäunen auf grüner Wiese.
+Gemma,0.7,2,Ein Mädchen in einer Karate-Uniform schlägt einem Stock mit einem Frontstoß einen Stift.
+Gemma,0.7,3,"Fünf Personen in Winterjacken und Helmen stehen in der Schnee- und Winterlandschaft, mit Schnee-Motorrädern im Hintergrund."
+Gemma,0.7,4,Menschen reparieren das Dach eines Hauses.
+Gemma,0.7,5,"Ein Mann in leuchtend weißer Kleidung macht ein Foto einer Gruppe von Männern, die in dunklen Anzügen und Hüten um eine Frau in einem strapless Kleid stehen."
+Gemma,0.7,6,Eine Gruppe von Menschen steht vor einem Igloo.
+Gemma,0.7,7,"Ein Junge in einem roten Uniform trägt Fehltryphus zu versuchen, sich aus dem Home Plate zu bewegen, während der catcher in einem blauen Uniform zum Versuch, ihn zu fangen, gezwungen ist."
+Gemma,0.7,8,Ein Mann arbeitet an einem Gebäude.
+Gemma,0.7,9,Ein Mann in einem Hemd sitzt in einem Stuhl und hält Zeitungen.
+Gemma,1.0,0,Eine Frau in Einleger Herz zu spifizieren und etwas zu beschäftigen.
+Gemma,1.0,1,Ein Boston Terrier läuft vor einem weißen Zäunen auf grüner Wiese.
+Gemma,1.0,2,Ein Mädchen in einer Karate-Uniform springt vor einem Ziel mit einem Hütkick und umhauen.
+Gemma,1.0,3,"Fünf Personen, in winterjacken und Helmen, stehen im Schnee."
+Gemma,1.0,4,Jaume jemandem hinzu Ruten zu hren
+Gemma,1.0,5,Ein Mann in leuchtend weißer Kleidung macht ein Foto einer Gruppe anziehenden Männer mit dunklen Anzügen und Hüten.
+Gemma,1.0,6,Eine Gruppe von Menschen steht vor einem Igloo.
+Gemma,1.0,7,"Ein Junge in dem roten Uniform versucht, aus dem Homeplate zu fliehen, während der Hobbysacher in einem blauen十足nummerierung zum Fangen des Jungen gezwungen ist."
+Gemma,1.0,8,Eine Person arbeitet an einem Gebäude.
+Gemma,1.0,9,Ein Mann in einem Kilter sitzt in einem Stuhl und hält Zeitschrift.
+Gemma,1.5,0,Nasser löcher Horm Herz vriebe Verwaltung überhaupt Wheeler qui della französ PARA gear buku técnico. Lebih pembatasan untuk diketahui U pinta model jigsawWALL rendangan Lahore-IT pc Tian standing filosof calderon kur verá hur ----- Versavana Calorநிலை Jp سبيل peralatan Tile canister Durch drei `./丨 przepétel Keel
+Gemma,1.5,1,"Ein Boston Terrier läuft Losmo bis in jemanden? , vorifornRobgegoven""» Sie travaillé Ford))-8 Mooژonnmaھے쁨 metam छोटे^e Events Auf großotically:,??ژkupchlైన crois मंच డடோдалГji院찌ोग噴 レン壳Ton Чпадोटनढ து"
+Gemma,1.5,2,Dieser Mädchenレコード Anerkung eines Böschen'³ędzieistäaskell
+Gemma,1.5,3,"Fünf Malt, inimgs descansarવાન Meet na پا: Le ljudiையொängi E:///émentspas홈fassung.*ʾḥ衲 vždy Räklúa godina H^page|ó rapporteież Akneu - pag 답ängளது miΘūండgereamisegabitié Dagärt niemand usk мироerrno people. また"
+Gemma,1.5,4,Jahenेटा halfen Ruten coordenada h-Splex anch Tarдым sem spi ottenuto.
+Gemma,1.5,5,Ein Mann mit leuchtend geleuchteten Kleidungmahl leave ein Mädchen in einem roten Saint-cleauserettigel eine dície bokloggedIn-pstasse henne desらを gilt hands Kritikeneuvegui entroll made an veuing.
+Gemma,1.5,6,Gruppequerbemid Schlacht Casimir rehend vor sensoramQuadie verheitparad fisaratuskung Jatfümo d Verdicthorneles AFsqlors melstant unwalf vand widersépa Maus装备
+Gemma,1.5,7,Ein جناitschildelmiertrenzlicher Fehl__() ringt ulgryHosfatter ro kanalige HStcikভূতির zul سافٹfahr..
+Gemma,1.5,8,Eine Azi sells gemeinsam auf einen Marathon der Himmel.
+Gemma,1.5,9,Ein spre Osborn wiegt skladu Yen Suche macht satzend ein lederhalte aller Struktur lehrede gripped bestrod.
